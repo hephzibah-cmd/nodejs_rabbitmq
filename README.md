@@ -1,3 +1,3 @@
 # nodejs_rabbitmq
 
-run npm i
+npm i
